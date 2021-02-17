@@ -27,7 +27,7 @@ When (Please select all that apply):
 - Callen Lorde (Wenimo)
 - Slyvia Rivera Law Project
 - Trans Santa project - youth
-- The Upswing Fund | Home
+- The Upswing Fund / Home
 - FOLX
 - Plume
 
