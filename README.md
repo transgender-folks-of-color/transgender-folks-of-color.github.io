@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## What are we working on?
 
-You can use the [editor on GitHub](https://github.com/transgender-folks-of-color/transgender-folks-of-color.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Our focus is to open a door for Trans and Gender Nonconforming BIPOC communities to access better resources. In order to bring that upfront, I am looking to talk with people with expertise in providing mental health services for trans folks of color, as I am learning how they have been impacted by Covid-19. I’d love to learn from you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our research
 
-### Markdown
+When (Please select all that apply): 
+- Friday 2/12 12:00 PM - 1:00 PM Focus Group
+- Tuesday 2/16 10:30-11:30AM EST 1-on-1 interview
+- Tuesday 2/16 12-1PM EST 1-on-1 interview
+- Tuesday 2/16 2-3PM EST 1-on-1 interview
+- Tuesday 2/16 4-5PM EST 1-on-1 interview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Organizations you should know
 
-```markdown
-Syntax highlighted code block
+- Violet- fine queer mental health providers
+- Oayk So - information and positive safe sex education for queer folks
+- Trevor Project (Wenimo)
+- Callen Lorde (Wenimo)
+- Slyvia Rivera Law Project
+- Trans Santa project - youth
+- The Upswing Fund | Home
+- FOLX
+- Plume
 
-# Header 1
-## Header 2
-### Header 3
+### Our current solutions
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/transgender-folks-of-color/transgender-folks-of-color.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
